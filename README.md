@@ -1,31 +1,60 @@
-<h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
-<h3 align="center">A passionate Fullstack developer from Egypt</h3>
+<a href="https://omarahmedowais.github.io/"><img src="./profile-banner.svg" alt="Omar Ahmed — Software Engineer. Backend depth. Product perspective." width="100%" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarahmedOwais&label=Profile%20views&color=0e75b6&style=flat" alt="omarahmedOwais" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarahmedOwais" alt="omarahmedOwais" /></a> </p>
-
-- 🔭 I’m currently working on **node.js projects**
-
-- 🌱 I’m currently learning **web development**
-
-- 📫 How to reach me **oa1476@fayoum.edu.eg**
-
-- 📄 Know about my experiences []()
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-ahmed-owais-abdel-tawab-13a09b1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-ahmed-owais-abdel-tawab-13a09b1b2/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/oa1476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oa1476" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oa1476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oa1476" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://omarahmedowais.github.io/"><strong>Portfolio</strong></a> ·
+  <a href="https://omarahmedowais.github.io/Omar-Ahmed-Resume.pdf">Resume</a> ·
+  <a href="https://www.linkedin.com/in/omar-ahmed-owais-abdel-tawab-13a09b1b2/">LinkedIn</a> ·
+  <a href="mailto:omar.owais.dev@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Building the services behind useful products
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarahmedOwais&show_icons=true&locale=en&layout=compact" alt="omarahmedOwais" /></p>
+I'm **Omar Ahmed**, a software engineer from Egypt with **3 years of experience**, focused on **Node.js, NestJS, and TypeScript**. I build APIs, modular backends, and real-time experiences, with frontend experience that helps me connect technical decisions to the people using the product.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarahmedOwais&show_icons=true&locale=en" alt="omarahmedOwais" /></p>
+Currently a **Node.js Developer at Raise Right**, contributing to EduMarket. My work spans education, sports booking, property platforms, and multi-tenant SaaS.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAhmedOwais&" alt="omarahmedOwais" /></p>
+### Selected product contributions
+
+These are commercial products I've contributed to; their source code belongs to their respective teams.
+
+| Product | What I contributed |
+| --- | --- |
+| [**EduMarket ↗**](https://edumarket.io/) | Modular NestJS backend, administration workflows, operational reports, and optimized APIs for an education marketplace. |
+| [**Spark ↗**](https://sparkplatform.app/) | Backend services and integrations for sports and activity bookings, including real-time availability and notifications. |
+| [**Views ↗**](https://views.properties/en) | APIs for listings, reservations, search, and notifications on a multilingual property platform. |
+| [**Jam3ty ↗**](https://jam3ty.net/) | Learning workflows covering courses, enrollment, content, student progress, and assessments. |
+
+[**Explore project previews and my experience →**](https://omarahmedowais.github.io/#work)
+
+### My toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Node.js · NestJS · Express · TypeScript · JavaScript |
+| **Data & real-time** | MongoDB · PostgreSQL · SQL Server · Socket.io |
+| **Frontend** | React · Angular · Redux Toolkit · RTK Query |
+| **Delivery** | Docker · Git · AWS · Azure · Google Cloud |
+
+### Experience
+
+- **Raise Right** — Node.js Developer · June 2025–present
+- **Apes Smart Solutions** — Node.js Developer, part-time · February–December 2025
+- **Sarri Technology** — MERN Stack Developer · October 2023–May 2025
+- **CustEx** — Backend Developer, part-time · August–November 2023
+
+B.Sc. in Computer Science, Artificial Intelligence — **Fayoum University**, 2023.
+
+### Let's connect
+
+Have a backend challenge, a product idea, or an engineering opportunity?  
+Reach me at **[omar.owais.dev@gmail.com](mailto:omar.owais.dev@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/omar-ahmed-owais-abdel-tawab-13a09b1b2/)**.
+
+<details>
+<summary><strong>نبذة بالعربية</strong></summary>
+
+أنا **عمر أحمد**، مهندس برمجيات من مصر، أركز على تطوير الأنظمة الخلفية باستخدام **Node.js وNestJS وTypeScript**. لدي خبرة في بناء واجهات برمجة التطبيقات، والأنظمة متعددة المستأجرين، والتحديثات الفورية، مع خبرة في تطوير الواجهات الأمامية باستخدام React وAngular.
+
+ساهمت في منتجات في مجالات التعليم، وحجز الأنشطة الرياضية، والعقارات. يمكنك استكشاف مشاريعي وخبراتي عبر [معرض أعمالي بالعربية والإنجليزية](https://omarahmedowais.github.io/)، أو التواصل معي عبر [البريد الإلكتروني](mailto:omar.owais.dev@gmail.com).
+
+</details>
 
