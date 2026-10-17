@@ -20,9 +20,9 @@ These are commercial products I've contributed to; their source code belongs to 
 | Product | What I contributed |
 | --- | --- |
 | [**EduMarket ↗**](https://edumarket.io/) | Contributed to a 58-module NestJS backend rebuild: **6.8× throughput**, **~6× lower p95 latency**, and **~0% HTTP failures** in a 300-concurrent-user load test. |
-| [**Spark ↗**](https://sparkplatform.app/) | Backend services and integrations for sports and activity bookings, including real-time availability and notifications. |
-| [**Views ↗**](https://views.properties/en) | APIs for listings, reservations, search, and notifications on a multilingual property platform. |
-| [**Jam3ty ↗**](https://jam3ty.net/) | Learning workflows covering courses, enrollment, content, student progress, and assessments. |
+| [**Spark ↗**](https://sparkplatform.app/) | **3 core capabilities:** real-time availability, notifications, and integrations for sports and activity bookings. |
+| [**Views ↗**](https://views.properties/en) | **4 backend workflows:** listings, reservations, search, and notifications on a multilingual property platform. |
+| [**Jam3ty ↗**](https://jam3ty.net/) | **5 learning workflows:** courses, enrollment, content, student progress, and assessments. |
 
 [**Explore project previews and my experience →**](https://omarahmedowais.github.io/#work)
 
@@ -66,9 +66,9 @@ The **1,000,000-user dataset was seeded test data**, not a claim of active produ
 ### Experience
 
 - **Raise Right** — Node.js Developer · June 2025–present
-- **Apes Smart Solutions** — Node.js Developer, part-time · February–December 2025
-- **Sarri Technology** — MERN Stack Developer · October 2023–May 2025
-- **CustEx** — Backend Developer, part-time · August–November 2023
+- **Apes Smart Solutions** — Node.js Developer, part-time · February–December 2025. Contributed to **2 products: Spark and Views**.
+- **Sarri Technology** — MERN Stack Developer · October 2023–May 2025. Built across **3 product areas: e-commerce, booking, and HR SaaS**.
+- **CustEx** — Backend Developer, part-time · August–November 2023. Developed **2 real-time features: interactions and voting**.
 
 B.Sc. in Computer Science, Artificial Intelligence — **Fayoum University**, 2023.
 
