@@ -57,7 +57,7 @@ The **1,000,000-user dataset was seeded test data**, not a claim of active produ
 | --- | --- |
 | **Languages** | JavaScript · TypeScript · Python |
 | **Frameworks & runtime** | Node.js · Express.js · NestJS · Next.js · FastAPI · React · Angular |
-| **Databases & queries** | PostgreSQL · MySQL · MongoDB · Redis · Kysely · SQL Server |
+| **Databases & queries** | PostgreSQL · TypeORM · MySQL · MongoDB · Redis · Kysely · SQL Server |
 | **Messaging & real-time** | RabbitMQ · Mosquitto · WebRTC · WebSockets · Socket.io · MQTT · AMQP |
 | **Cloud & delivery** | Docker · AWS · S3 · EC2 · RDS · ECS · Lambda · Amplify · SQS · Git |
 | **Architecture & APIs** | Microservices Architecture · CQRS · Domain-Driven Design · RESTful APIs · GraphQL · gRPC · Protocol Buffers |
@@ -69,9 +69,16 @@ The **1,000,000-user dataset was seeded test data**, not a claim of active produ
   - **EduMarket, partner services & B2B:** the main platform, partner management of platform services, and a marketplace for partners.
   - **Roli transportation:** driver, supervisor and parent experiences, with partner-side transportation management.
   - **Admin & Crew:** central administration and internal operations tools managed by the Raise Right team.
-- **Apes Smart Solutions** — Node.js Developer, part-time · February–December 2025. Contributed to **2 products: Spark and Views**.
+- **Apes Smart Solutions** — Node.js Developer, part-time · February–December 2025. Delivered backend services across **3 product areas: nutrition, activity booking (Spark), and property/hospitality (Views)**.
+  - Applied hexagonal architecture and RabbitMQ messaging; used TypeORM with PostgreSQL and MongoDB audit records.
+  - Built services handling **2,000+ requests/second at 99.9% uptime**, cut synchronous blocking by **~70%** with RabbitMQ, and supported **1,000+ daily bookings**.
+  - Improved logging/tracing to reduce incident debugging time by **60%**.
 - **Sarri Technology** — MERN Stack Developer · October 2023–May 2025. Built across **3 product areas: e-commerce, booking, and HR SaaS**.
+  - Modernized a **10,000-MAU** application, reducing critical bugs by **40%** and API latency by **45%**.
+  - Built **40+ REST APIs** handling **5M+ daily requests at 99.99% uptime**; released **v2 and v3** without downtime.
+  - Built analytics processing **100M+ data points/month** and accelerated delivery by **25%** with an **8-person frontend team**.
 - **CustEx** — Backend Developer, part-time · August–November 2023. Developed **2 real-time features: interactions and voting**.
+  - Processed **15,000-20,000 messages/day** with delivery **under 150ms**; reduced connection latency by **25%** with **99.7% connection success**.
 
 B.Sc. in Computer Science, Artificial Intelligence — **Fayoum University**, 2023.
 
