@@ -11,7 +11,7 @@
 
 I'm **Omar Ahmed**, a software engineer from Egypt with **3 years of experience**, focused on **Node.js, NestJS, and TypeScript**. I build APIs, modular backends, and real-time experiences, with frontend experience that helps me connect technical decisions to the people using the product.
 
-Currently a **Node.js Developer at Raise Right**, contributing to EduMarket. My work spans education, sports booking, property platforms, and multi-tenant SaaS.
+Currently a **Node.js Developer at Raise Right**, contributing across EduMarket, partner services, B2B commerce, Roli transportation, and internal administration and operations tools. My work spans education, sports booking, property platforms, and multi-tenant SaaS.
 
 ### Selected product contributions
 
@@ -65,7 +65,10 @@ The **1,000,000-user dataset was seeded test data**, not a claim of active produ
 
 ### Experience
 
-- **Raise Right** — Node.js Developer · June 2025–present
+- **Raise Right** — Node.js Developer · June 2025–present. Contributing across **6 connected product areas**: EduMarket, partner services, B2B, Roli, Admin, and Crew.
+  - **EduMarket, partner services & B2B:** the main platform, partner management of platform services, and a marketplace for partners.
+  - **Roli transportation:** driver, supervisor and parent experiences, with partner-side transportation management.
+  - **Admin & Crew:** central administration and internal operations tools managed by the Raise Right team.
 - **Apes Smart Solutions** — Node.js Developer, part-time · February–December 2025. Contributed to **2 products: Spark and Views**.
 - **Sarri Technology** — MERN Stack Developer · October 2023–May 2025. Built across **3 product areas: e-commerce, booking, and HR SaaS**.
 - **CustEx** — Backend Developer, part-time · August–November 2023. Developed **2 real-time features: interactions and voting**.
