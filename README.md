@@ -55,10 +55,13 @@ The **1,000,000-user dataset was seeded test data**, not a claim of active produ
 
 | Area | Technologies |
 | --- | --- |
-| **Backend** | Node.js · NestJS · Express · TypeScript · JavaScript · GraphQL · REST |
-| **Data & real-time** | PostgreSQL · MongoDB · Redis · SQL Server · Socket.io |
-| **Frontend** | React · Angular · Redux Toolkit · RTK Query |
-| **Delivery** | Docker · Git · AWS · Azure · Google Cloud |
+| **Languages** | JavaScript · TypeScript · Python |
+| **Frameworks & runtime** | Node.js · Express.js · NestJS · Next.js · FastAPI · React · Angular |
+| **Databases & queries** | PostgreSQL · MySQL · MongoDB · Redis · Kysely · SQL Server |
+| **Messaging & real-time** | RabbitMQ · Mosquitto · WebRTC · WebSockets · Socket.io · MQTT · AMQP |
+| **Cloud & delivery** | Docker · AWS · S3 · EC2 · RDS · ECS · Lambda · Amplify · SQS · Git |
+| **Architecture & APIs** | Microservices Architecture · CQRS · Domain-Driven Design · RESTful APIs · GraphQL · gRPC · Protocol Buffers |
+| **Engineering practices** | Agile Methodologies · Jest · Testcontainers · k6 |
 
 ### Experience
 
