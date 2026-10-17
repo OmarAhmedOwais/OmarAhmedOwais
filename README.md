@@ -11,7 +11,7 @@
 
 I'm **Omar Ahmed**, a software engineer from Egypt with **3 years of experience**, focused on **Node.js, NestJS, and TypeScript**. I build APIs, modular backends, and real-time experiences, with frontend experience that helps me connect technical decisions to the people using the product.
 
-Currently a **Node.js Developer at Raise Right**, contributing across EduMarket, partner services, B2B commerce, Roli transportation, and internal administration and operations tools. My work spans education, sports booking, property platforms, and multi-tenant SaaS.
+Currently a **Full-Stack Developer at Raise Right**, contributing across EduMarket, partner services, B2B commerce, Roli transportation, and internal administration and operations tools. My work spans education, sports booking, property platforms, and multi-tenant SaaS.
 
 ### Selected product contributions
 
@@ -60,24 +60,24 @@ The **1,000,000-user dataset was seeded test data**, not a claim of active produ
 | **Databases & queries** | PostgreSQL · TypeORM · MySQL · MongoDB · Redis · Kysely · SQL Server |
 | **Messaging & real-time** | RabbitMQ · Mosquitto · WebRTC · WebSockets · Socket.io · MQTT · AMQP |
 | **Cloud & delivery** | Docker · AWS · S3 · EC2 · RDS · ECS · Lambda · Amplify · SQS · Git |
-| **Architecture & APIs** | Microservices Architecture · CQRS · Domain-Driven Design · RESTful APIs · GraphQL · gRPC · Protocol Buffers |
+| **Architecture & APIs** | CQRS · Domain-Driven Design · RESTful APIs · GraphQL · gRPC · Protocol Buffers |
 | **Engineering practices** | Agile Methodologies · Jest · Testcontainers · k6 |
 
 ### Experience
 
-- **Raise Right** — Node.js Developer · June 2025–present. Contributing across **6 connected product areas**: EduMarket, partner services, B2B, Roli, Admin, and Crew.
+- **Raise Right** — Full-Stack Developer · June 2025–present. Contributing frontend and backend work across **6 connected product areas**: EduMarket, partner services, B2B, Roli, Admin, and Crew.
   - **EduMarket, partner services & B2B:** the main platform, partner management of platform services, and a marketplace for partners.
   - **Roli transportation:** driver, supervisor and parent experiences, with partner-side transportation management.
   - **Admin & Crew:** central administration and internal operations tools managed by the Raise Right team.
-- **Apes Smart Solutions** — Node.js Developer, part-time · February–December 2025. Delivered backend services across **3 product areas: nutrition, activity booking (Spark), and property/hospitality (Views)**.
+- **Apes Smart Solutions** — Full-Stack Developer, part-time · February–December 2025. Delivered frontend and backend features across **3 product areas: nutrition, activity booking (Spark), and property/hospitality (Views)**.
   - Applied hexagonal architecture and RabbitMQ messaging; used TypeORM with PostgreSQL and MongoDB audit records.
   - Built services handling **2,000+ requests/second at 99.9% uptime**, cut synchronous blocking by **~70%** with RabbitMQ, and supported **1,000+ daily bookings**.
   - Improved logging/tracing to reduce incident debugging time by **60%**.
-- **Sarri Technology** — MERN Stack Developer · October 2023–May 2025. Built across **3 product areas: e-commerce, booking, and HR SaaS**.
+- **Sarri Technology** — Full-Stack Developer (MERN) · October 2023–May 2025. Developed frontend and backend features across **3 product areas: e-commerce, booking, and HR SaaS**.
   - Modernized a **10,000-MAU** application, reducing critical bugs by **40%** and API latency by **45%**.
   - Built **40+ REST APIs** handling **5M+ daily requests at 99.99% uptime**; released **v2 and v3** without downtime.
   - Built analytics processing **100M+ data points/month** and accelerated delivery by **25%** with an **8-person frontend team**.
-- **CustEx** — Backend Developer, part-time · August–November 2023. Developed **2 real-time features: interactions and voting**.
+- **CustEx** — Full-Stack Developer, part-time · August–November 2023. Developed frontend and backend workflows for **2 real-time features: interactions and voting**.
   - Processed **15,000-20,000 messages/day** with delivery **under 150ms**; reduced connection latency by **25%** with **99.7% connection success**.
 
 B.Sc. in Computer Science, Artificial Intelligence — **Fayoum University**, 2023.
