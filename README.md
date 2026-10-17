@@ -19,19 +19,44 @@ These are commercial products I've contributed to; their source code belongs to 
 
 | Product | What I contributed |
 | --- | --- |
-| [**EduMarket ↗**](https://edumarket.io/) | Modular NestJS backend, administration workflows, operational reports, and optimized APIs for an education marketplace. |
+| [**EduMarket ↗**](https://edumarket.io/) | Contributed to a 58-module NestJS backend rebuild: **6.8× throughput**, **~6× lower p95 latency**, and **~0% HTTP failures** in a 300-concurrent-user load test. |
 | [**Spark ↗**](https://sparkplatform.app/) | Backend services and integrations for sports and activity bookings, including real-time availability and notifications. |
 | [**Views ↗**](https://views.properties/en) | APIs for listings, reservations, search, and notifications on a multilingual property platform. |
 | [**Jam3ty ↗**](https://jam3ty.net/) | Learning workflows covering courses, enrollment, content, student progress, and assessments. |
 
 [**Explore project previews and my experience →**](https://omarahmedowais.github.io/#work)
 
+### EduMarket: the results behind the work
+
+| Measure | Before → after |
+| --- | --- |
+| **Throughput** | 4.85 → **32.8 requests/second** (6.8×) |
+| **p95 response time** | 60s → **9.9s** (~6× lower) |
+| **HTTP failure rate** | 79.5% → **~0%** |
+| **Enrollment & wallet success** | 0% → **100%** |
+| **Circular module dependencies** | 41 → **0** |
+
+Performance and flow-success figures come from before/after load tests with **300 concurrent users**.
+
+<details>
+<summary><strong>Architecture, optimization & reliability</strong></summary>
+
+- Contributed across **58 NestJS modules** using CQRS, hexagonal architecture and DDD, exposing GraphQL and REST interfaces.
+- Used **pg_stat_statements**, targeted PostgreSQL indexes, DataLoader batching and tag-based Redis caching to address sequential scans and N+1 queries. Top queries fell from **6–15 seconds to sub-millisecond**, with a measured **99.9% cache-hit rate**.
+- Integrated **Kashier and Paymob** behind circuit breakers, alongside wallet and installment workflows.
+- Removed circular dependencies and added **dependency-cruiser** checks before commits and pushes.
+- Backed reliability with **3,000+ automated tests across 428 Jest/Testcontainers suites**, plus **23 k6 scenarios**: a **20→200 RPS spike** and a **45-minute soak at 15 RPS**. Used Sentry, Prometheus and Loki for observability.
+
+The **1,000,000-user dataset was seeded test data**, not a claim of active production users.
+
+</details>
+
 ### My toolkit
 
 | Area | Technologies |
 | --- | --- |
-| **Backend** | Node.js · NestJS · Express · TypeScript · JavaScript |
-| **Data & real-time** | MongoDB · PostgreSQL · SQL Server · Socket.io |
+| **Backend** | Node.js · NestJS · Express · TypeScript · JavaScript · GraphQL · REST |
+| **Data & real-time** | PostgreSQL · MongoDB · Redis · SQL Server · Socket.io |
 | **Frontend** | React · Angular · Redux Toolkit · RTK Query |
 | **Delivery** | Docker · Git · AWS · Azure · Google Cloud |
 
